@@ -15,7 +15,7 @@ This is the repository of the R code associated with the paper "Machine Learning
 
 2) Install latest version of RStudio ([link](https://rstudio.com/products/rstudio/download/)).
 
-3) Download [zip file](https://github.com/ComputerFinance/Computacional_Economics/archive/master.zip) from this repository.
+3) Download [zip file](https://github.com/AnaGularte/Computational_Economics/archive/refs/heads/main.zip) from this repository.
 
 4) Unzip the content of zip file in a personal folder.
 
