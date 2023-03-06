@@ -25,4 +25,4 @@ If these steps don't work for you, please [let us know](https://github.com/Compu
 
 ## Issues and bugs
 
-If you've found an issue within the code, please use [Git issue system](https://github.com/ComputerFinance/Computational_Economics/issues). That way everyone will be able to see the history of issues and corrections.
+If you've found an issue within the code, please use [Git issue system](https://github.com/ComputerFinance/Computacional_Economics/issues). That way everyone will be able to see the history of issues and corrections.
